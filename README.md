@@ -1,19 +1,30 @@
 # Huna for Huna
 
-Nairobi residential rental website.
+Nairobi residential rental website — **client demo**.
 
-## Current state (Vercel)
+## What's here
 
-The repo root is a standard Next.js app that deploys to Vercel as-is:
+A standard Next.js app on Vercel with no backend, database or login:
 
 - `/` — public homepage (listings, filters, shortlist, neighbourhoods, FAQs)
-- `/dashboard` — placeholder until the management dashboard is ported
+- `/dashboard` — full management workspace and tenant portal (`/dashboard?portal=tenant`)
+  running on sample data entirely in the browser. Every action works (properties,
+  tenants, rent payments, maintenance, expenses, messages, documents, team roles,
+  CSV export, offline visits). Changes are saved in the visitor's own browser
+  (localStorage) and **Reset demo** restores the sample portfolio.
+
+All listings, people and figures are illustrative.
 
 ```sh
 npm install
 npm run dev     # http://localhost:3000
 npm run build
 ```
+
+## Going to production later
+
+Branch `supabase-backend` has a tested real backend: magic-link sign-in, Postgres with
+role-based permissions enforced in the database, and private document storage.
 
 ## `legacy-cloudflare/`
 

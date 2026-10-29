@@ -1,0 +1,16 @@
+.login{min-height:100vh;background:#11272b;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:32px 16px;color:#e8eee6}
+.login-brand{font-family:'Manrope',sans-serif;font-size:30px;letter-spacing:-1.4px;margin-bottom:28px;color:#f6f8f3}
+.login-brand em{font-family:Georgia,serif;font-weight:400}
+.login-card{width:100%;max-width:420px;background:#fbfcf8;color:var(--ink);border-radius:12px;padding:34px 30px;box-shadow:0 30px 90px #0006}
+.login-eyebrow{font-size:9px;letter-spacing:2px;color:#82908d;font-weight:600}
+.login-card h1{font-size:28px;letter-spacing:-1px;margin:10px 0 8px;color:#142b2e}
+.login-lead{font-size:13px;line-height:1.7;color:#6b7a74}
+.login-form{margin-top:22px}
+.login-form label{display:block;font-size:12px;font-weight:500;color:#4c5e57}
+.login-form input{display:block;width:100%;margin-top:8px;padding:12px 13px;border:1px solid #d9e1d6;border-radius:6px;font-size:14px;background:#fff}
+.login-form button{margin-top:16px;width:100%;display:flex;align-items:center;justify-content:center;gap:10px;background:#233c35;color:#fff;border-radius:6px;padding:13px;font-size:13px;font-weight:500}
+.login-form button:hover{background:#3b5847}
+.login-error{margin-top:14px;font-size:12px;color:#a0543a;background:#fbefea;border-radius:6px;padding:10px 12px;line-height:1.6}
+.login-sent{margin-top:22px;display:flex;gap:14px;background:#edf3e5;border-radius:8px;padding:18px;color:#46603a}
+.login-sent strong{font-size:14px}.login-sent p{font-size:12px;line-height:1.6;margin:6px 0 10px;color:#5f7552}
+.login-sent button{font-size:12px;color:#36573f;text-decoration:underline;padding:0}

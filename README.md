@@ -1,5 +1,32 @@
 # Huna for Huna
 
+Nairobi residential rental website.
+
+## Current state (Vercel)
+
+The repo root is a standard Next.js app that deploys to Vercel as-is:
+
+- `/` — public homepage (listings, filters, shortlist, neighbourhoods, FAQs)
+- `/dashboard` — placeholder until the management dashboard is ported
+
+```sh
+npm install
+npm run dev     # http://localhost:3000
+npm run build
+```
+
+## `legacy-cloudflare/`
+
+The original export from ChatGPT site hosting: management dashboard, tenant portal,
+API routes, D1/Drizzle database, R2 document storage and "Sign in with ChatGPT" auth.
+It targets Cloudflare Workers and is **not** part of the Vercel build. It is kept as the
+reference for porting the dashboard to Vercel + Supabase (Postgres, Storage, Auth).
+
+---
+
+## Original export notes
+
+
 Nairobi residential rental website and property-management workspace.
 
 This is the complete source export of the latest homepage and dashboard built in this conversation, based on commit `1d7013af7e88fbac67e98d17c1cc82405cceae65`. It includes application code, styles, image assets, API routes, database migrations, and the framework/build tooling. The package name has been changed to `huna-for-huna`, and the original hosted Site ID has been removed from the export.

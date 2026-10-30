@@ -1,0 +1,452 @@
+[
+ {
+  "unit": "1509",
+  "floor": 15,
+  "beds": 1,
+  "baths": 1,
+  "sizeSqm": 78.41,
+  "sizeSqft": 844,
+  "status": "reserved"
+ },
+ {
+  "unit": "1504",
+  "floor": 15,
+  "beds": 1,
+  "baths": 1,
+  "sizeSqm": 76.18,
+  "sizeSqft": 820,
+  "status": "available"
+ },
+ {
+  "unit": "1306",
+  "floor": 13,
+  "beds": 1,
+  "baths": 1,
+  "sizeSqm": 55,
+  "sizeSqft": 592,
+  "status": "let"
+ },
+ {
+  "unit": "1104",
+  "floor": 11,
+  "beds": 1,
+  "baths": 1,
+  "sizeSqm": 77.3,
+  "sizeSqft": 832,
+  "status": "let"
+ },
+ {
+  "unit": "707",
+  "floor": 7,
+  "beds": 1,
+  "baths": 1,
+  "sizeSqm": 52.12,
+  "sizeSqft": 561,
+  "status": "let"
+ },
+ {
+  "unit": "605",
+  "floor": 6,
+  "beds": 1,
+  "baths": 1,
+  "sizeSqm": 61.78,
+  "sizeSqft": 665,
+  "status": "reserved"
+ },
+ {
+  "unit": "2605",
+  "floor": 26,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 89.09,
+  "sizeSqft": 959,
+  "status": "let"
+ },
+ {
+  "unit": "2406",
+  "floor": 24,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 104.61,
+  "sizeSqft": 1126,
+  "status": "available"
+ },
+ {
+  "unit": "2403",
+  "floor": 24,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "2402",
+  "floor": 24,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.23,
+  "sizeSqft": 1025,
+  "status": "available"
+ },
+ {
+  "unit": "2303",
+  "floor": 23,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "2302",
+  "floor": 23,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.23,
+  "sizeSqft": 1025,
+  "status": "available"
+ },
+ {
+  "unit": "2206",
+  "floor": 22,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 104.61,
+  "sizeSqft": 1126,
+  "status": "available"
+ },
+ {
+  "unit": "2203",
+  "floor": 22,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "2106",
+  "floor": 21,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 104.61,
+  "sizeSqft": 1126,
+  "status": "available"
+ },
+ {
+  "unit": "2103",
+  "floor": 21,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "2102",
+  "floor": 21,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.23,
+  "sizeSqft": 1025,
+  "status": "available"
+ },
+ {
+  "unit": "2003",
+  "floor": 20,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "2002",
+  "floor": 20,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.23,
+  "sizeSqft": 1025,
+  "status": "available"
+ },
+ {
+  "unit": "1802",
+  "floor": 18,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.23,
+  "sizeSqft": 1025,
+  "status": "available"
+ },
+ {
+  "unit": "1703",
+  "floor": 17,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "reserved"
+ },
+ {
+  "unit": "1502",
+  "floor": 15,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.32,
+  "sizeSqft": 1026,
+  "status": "available"
+ },
+ {
+  "unit": "1403",
+  "floor": 14,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "1402",
+  "floor": 14,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.32,
+  "sizeSqft": 1026,
+  "status": "available"
+ },
+ {
+  "unit": "1310",
+  "floor": 13,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 98.94,
+  "sizeSqft": 1065,
+  "status": "available"
+ },
+ {
+  "unit": "1302",
+  "floor": 13,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.32,
+  "sizeSqft": 1026,
+  "status": "available"
+ },
+ {
+  "unit": "1210",
+  "floor": 12,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 98.94,
+  "sizeSqft": 1065,
+  "status": "available"
+ },
+ {
+  "unit": "1208",
+  "floor": 12,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 114.27,
+  "sizeSqft": 1230,
+  "status": "let"
+ },
+ {
+  "unit": "1202",
+  "floor": 12,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.32,
+  "sizeSqft": 1026,
+  "status": "let"
+ },
+ {
+  "unit": "1110",
+  "floor": 11,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 98.94,
+  "sizeSqft": 1065,
+  "status": "available"
+ },
+ {
+  "unit": "1108",
+  "floor": 11,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 114.27,
+  "sizeSqft": 1230,
+  "status": "let"
+ },
+ {
+  "unit": "1103",
+  "floor": 11,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "1010",
+  "floor": 10,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 98.94,
+  "sizeSqft": 1065,
+  "status": "available"
+ },
+ {
+  "unit": "1003",
+  "floor": 10,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "1002",
+  "floor": 10,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 95.32,
+  "sizeSqft": 1026,
+  "status": "available"
+ },
+ {
+  "unit": "908",
+  "floor": 9,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 114.27,
+  "sizeSqft": 1230,
+  "status": "available"
+ },
+ {
+  "unit": "808",
+  "floor": 8,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 114.27,
+  "sizeSqft": 1230,
+  "status": "available"
+ },
+ {
+  "unit": "803",
+  "floor": 8,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 93.83,
+  "sizeSqft": 1010,
+  "status": "available"
+ },
+ {
+  "unit": "701",
+  "floor": 7,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 97.18,
+  "sizeSqft": 1046,
+  "status": "available"
+ },
+ {
+  "unit": "601",
+  "floor": 6,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 97.18,
+  "sizeSqft": 1046,
+  "status": "available"
+ },
+ {
+  "unit": "501",
+  "floor": 5,
+  "beds": 2,
+  "baths": 2,
+  "sizeSqm": 96.62,
+  "sizeSqft": 1040,
+  "status": "available"
+ },
+ {
+  "unit": "2501",
+  "floor": 25,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "let"
+ },
+ {
+  "unit": "2401",
+  "floor": 24,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ },
+ {
+  "unit": "1801",
+  "floor": 18,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ },
+ {
+  "unit": "1401",
+  "floor": 14,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ },
+ {
+  "unit": "1301",
+  "floor": 13,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ },
+ {
+  "unit": "1201",
+  "floor": 12,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ },
+ {
+  "unit": "1001",
+  "floor": 10,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "reserved"
+ },
+ {
+  "unit": "901",
+  "floor": 9,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ },
+ {
+  "unit": "801",
+  "floor": 8,
+  "beds": 3,
+  "baths": 2,
+  "sizeSqm": 138.05,
+  "sizeSqft": 1486,
+  "status": "available"
+ }
+]

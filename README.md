@@ -6,7 +6,8 @@ Nairobi residential rental website — **client demo**.
 
 A standard Next.js app on Vercel with no backend, database or login:
 
-- `/` — public homepage (listings, filters, shortlist, neighbourhoods, FAQs)
+- `/` — public homepage (Huna Heights unit listings, filters by bedrooms, availability and budget,
+  shortlist, amenities, FAQs)
 - `/dashboard` — full management workspace and tenant portal (`/dashboard?portal=tenant`)
   running on sample data entirely in the browser. Every action works (properties,
   tenants, rent payments, maintenance, expenses, messages, documents, team roles,
@@ -14,6 +15,19 @@ A standard Next.js app on Vercel with no backend, database or login:
   (localStorage) and **Reset demo** restores the sample portfolio.
 
 All listings, people and figures are illustrative.
+
+## Sample data: Huna Heights
+
+The homepage listings and the dashboard seed share one source, `lib/huna-heights.ts`: 50 sample units
+(`lib/huna-heights-units.json`), the indicative rents in `INDICATIVE_RENT_KES` (2-bed KES 140,000,
+3-bed KES 190,000, 1-bed on request; USD shown alongside) and the amenities, each marked "To confirm".
+Sample tenants, payments and maintenance in `lib/seed.ts` are tied to units whose status is `let`.
+
+To regenerate the units from a scraped `demo.json`:
+
+```sh
+node scripts/import-units.mjs path/to/demo.json
+```
 
 ```sh
 npm install
